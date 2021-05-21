@@ -1,7 +1,5 @@
 ﻿Imports Microsoft.VisualBasic
-Imports DevExpress.Web.ASPxEditors
-Imports DevExpress.Web.ASPxGridView
-Imports DevExpress.Web.ASPxPopupControl
+Imports DevExpress.Web
 Imports System
 Imports System.Web.UI
 
