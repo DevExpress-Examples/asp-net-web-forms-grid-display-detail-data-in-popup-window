@@ -11,7 +11,7 @@
 <!-- default file list end -->
 # How to display detail data within a popup window using ASPxPopupControl content elements
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e5202/)**
+**[[Run Online]](https://codecentral.devexpress.com/128539410/)**
 <!-- run online end -->
 
 
