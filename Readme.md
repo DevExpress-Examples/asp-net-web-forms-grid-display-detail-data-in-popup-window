@@ -71,6 +71,7 @@ Follow the steps below to display detail grid data in a pop-up window:
 ## Documentation
 
 * [Grid View Templates](https://docs.devexpress.com/AspNet/3718/components/grid-view/concepts/templates)
+* [Master-Detail Relationship](https://docs.devexpress.com/AspNet/3772/components/grid-view/concepts/master-detail-relationship)
 
 ## More Examples
 
