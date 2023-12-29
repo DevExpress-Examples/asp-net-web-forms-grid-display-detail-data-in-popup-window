@@ -4,9 +4,6 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 # Grid View for ASP.NET Web Forms - How to display detail grid data in a popup window
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128539410/)**
-<!-- run online end -->
 
 This example demonstrates how to create a template in a master grid, add a button to the template, and display a pop-up window with detail grid data on a button click.
 
